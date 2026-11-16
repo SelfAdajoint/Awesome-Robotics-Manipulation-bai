@@ -569,6 +569,7 @@ For learning-based action modeling, we further organize existing methods into th
 ### Other Simulators and Benchmarks
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Elastra: A Simulation Framework for Elastic Bodies**](https://arxiv.org/abs/2611.15112) | CoRLW 2026 | 2026-11-11 | ![Star](https://img.shields.io/github/stars/WhymustIhaveaname/elastra?style=social&label=Star) [GitHub](https://github.com/WhymustIhaveaname/elastra) | |
 | [**RoboChemGym: A Protocol-Driven Generative Simulation Framework for Long-Horizon Chemical Manipulation**](https://arxiv.org/abs/2610.02708) | arXiv | 2026-10-02 | - | |
 | [**LIBERO-Industry: Benchmarking Robotic Manipulation under Industrial Process Constraints**](https://arxiv.org/abs/2610.16782) | arXiv | 2026-10-12 | ![Star](https://img.shields.io/github/stars/IAIE-PhysicalAI/LIBERO-Industry?style=social&label=Star) [GitHub](https://github.com/IAIE-PhysicalAI/LIBERO-Industry) | |
 | [**A Physics-Consistent Benchmark for Contact-Rich Human-Robot Interaction in Assistive Care**](https://arxiv.org/abs/2609.02402) | arXiv | 2026-09-02 | - | |
